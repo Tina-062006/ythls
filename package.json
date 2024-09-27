@@ -1,7 +1,7 @@
 {
   "name": "youtube-hls-m3u8",
   "version": "1.0.0",
-  "description": "",
+  "description": "Youtube HLS Server is running",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abskmj/youtube-hls-m3u8.git"
+    "url": "git+https://github.com/Tina-062006/ythls.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abskmj/youtube-hls-m3u8/issues"
+    "url": "https://github.com/Tina-062006/ythls/issues"
   },
-  "homepage": "https://github.com/abskmj/youtube-hls-m3u8#readme",
+  "homepage": "https://github.com/Tina-062006/ythls#readme",
   "devDependencies": {
     "nodemon": "^2.0.20",
     "standard": "^17.0.0"
